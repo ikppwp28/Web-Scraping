@@ -1,0 +1,60 @@
+,Nama,Harga,Transmisi,Jumlah Kursi,CC,Horsepower
+0,Honda Brio Satya E M/T,"Rp 182,8 Juta                (OTR)",Manual,5 Kursi,1199 cc,89 hp
+1,Honda Brio Satya E CVT,"Rp 198,3 Juta                (OTR)",CVT,5 Kursi,1199 cc,89 hp
+2,Honda Brio RS M/T,"Rp 243,1 Juta                (OTR)",Manual,5 Kursi,1199 cc,89 hp
+3,Honda Brio RS CVT,"Rp 253,1 Juta                (OTR)",CVT,5 Kursi,1199 cc,89 hp
+4,Daihatsu Ayla 1.0L X MT,"Rp 146,9 Juta                (OTR)",Manual,5 Kursi,998 cc,66 hp
+5,Daihatsu Ayla 1.0L X MT ADS,"Rp 152,9 Juta                (OTR)",Manual,5 Kursi,998 cc,66 hp
+6,Daihatsu Ayla 1.2L R MT,"Rp 158,3 Juta                (OTR)",Manual,5 Kursi,1198 cc,87 hp
+7,Daihatsu Ayla 1.0L X CVT,"Rp 166,9 Juta                (OTR)",CVT,5 Kursi,998 cc,66 hp
+8,Daihatsu Ayla 1.2L R MT ADS,"Rp 169,9 Juta                (OTR)",Manual,5 Kursi,1198 cc,87 hp
+9,Daihatsu Ayla 1.0L X CVT ADS,"Rp 172,8 Juta                (OTR)",CVT,5 Kursi,998 cc,66 hp
+10,Daihatsu Ayla 1.2L R CVT,Rp 184 Juta                (OTR),CVT,5 Kursi,1198 cc,87 hp
+11,Daihatsu Ayla 1.2L R CVT ADS,"Rp 189,9 Juta                (OTR)",CVT,5 Kursi,1198 cc,87 hp
+12,Daihatsu Sigra 1.0 M MT,"Rp 146,6 Juta                (OTR)",Manual,7 Kursi,998 cc,66 hp
+13,Daihatsu Sigra 1.2 X MT,"Rp 155,3 Juta                (OTR)",Manual,7 Kursi,1197 cc,87 hp
+14,Daihatsu Sigra 1.2 X DLX MT,"Rp 160,9 Juta                (OTR)",Manual,7 Kursi,1197 cc,87 hp
+15,Daihatsu Sigra 1.2 R MT,Rp 162 Juta                (OTR),Manual,7 Kursi,1197 cc,87 hp
+16,Daihatsu Sigra 1.2 R DLX MT,"Rp 165,8 Juta                (OTR)",Manual,7 Kursi,1197 cc,87 hp
+17,Daihatsu Sigra 1.2 X AT,"Rp 168,6 Juta                (OTR)",Otomatis,7 Kursi,1197 cc,87 hp
+18,Daihatsu Sigra 1.2 X DLX AT,"Rp 174,1 Juta                (OTR)",Otomatis,7 Kursi,1197 cc,87 hp
+19,Daihatsu Sigra 1.2 R AT,"Rp 176,8 Juta                (OTR)",Otomatis,7 Kursi,1197 cc,87 hp
+20,Daihatsu Sigra 1.2 R DLX AT,"Rp 180,6 Juta                (OTR)",Otomatis,7 Kursi,1197 cc,87 hp
+21,Mitsubishi Xpander GLS CVT,"Rp 267,4 Juta                (OTR)",CVT,7 Kursi,1499 cc,104 hp
+22,Mitsubishi Xpander Exceed M/T,"Rp 271,5 Juta                (OTR)",Manual,7 Kursi,1499 cc,104 hp
+23,Mitsubishi Xpander Exceed CVT,"Rp 280,7 Juta                (OTR)",CVT,7 Kursi,1499 cc,104 hp
+24,Mitsubishi Xpander Sport M/T,"Rp 294,85 Juta                (OTR)",Manual,7 Kursi,1499 cc,104 hp
+25,Mitsubishi Xpander Sport CVT,"Rp 309,5 Juta                (OTR)",CVT,7 Kursi,1499 cc,104 hp
+26,Mitsubishi Xpander Ultimate CVT,"Rp 312,9 Juta                (OTR)",CVT,7 Kursi,1499 cc,104 hp
+27,Toyota Calya E MT,"Rp 167,6 Juta                (OTR)",Manual,7 Kursi,1197 cc,87 hp
+28,Toyota Calya G MT,"Rp 173,2 Juta                (OTR)",Manual,7 Kursi,1197 cc,87 hp
+29,Toyota Calya G AT,"Rp 187,4 Juta                (OTR)",Otomatis,7 Kursi,1197 cc,87 hp
+30,Toyota Avanza 1.3 E CVT,"Rp 249,8 Juta                (OTR)",CVT,7 Kursi,1329 cc,97 hp
+31,Toyota Avanza 1.5L G MT,"Rp 257,8 Juta                (OTR)",Manual,7 Kursi,1496 cc,105 hp
+32,Toyota Avanza 1.5 G CVT,"Rp 272,5 Juta                (OTR)",CVT,7 Kursi,1496 cc,105 hp
+33,Toyota Avanza 2024 1.5L,TBC,CVT,6 Kursi,1498 cc,103 hp
+34,Toyota Rush G AT,"Rp 293,5 Juta                (OTR)",Otomatis,7 Kursi,1496 cc,103 hp
+35,Toyota Rush 1.5 S MT GR Sport,"Rp 295,4 Juta                (OTR)",Manual,7 Kursi,1496 cc,103 hp
+36,Toyota Rush 1.5 S AT GR Sport,"Rp 306,1 Juta                (OTR)",Otomatis,7 Kursi,1496 cc,103 hp
+37,Toyota Agya 1.2L G M/T,"Rp 175,4 Juta                (OTR)",Manual,5 Kursi,1198 cc,87 hp
+38,Toyota Agya 1.2L G CVT,"Rp 191,4 Juta                (OTR)",CVT,5 Kursi,1198 cc,87 hp
+39,Toyota Agya 1.2L GR Sport M/T,"Rp 237,5 Juta                (OTR)",Manual,5 Kursi,1198 cc,87 hp
+40,Toyota Agya 1.2L GR Sport CVT,"Rp 253,5 Juta                (OTR)",CVT,5 Kursi,1198 cc,87 hp
+41,Honda WR-V E,"Rp 284,9 Juta                (OTR)",CVT,5 Kursi,1498 cc,119 hp
+42,Honda WR-V RS,"Rp 304,1 Juta                (OTR)",CVT,5 Kursi,1498 cc,119 hp
+43,Honda WR-V RS With Honda Sensing,"Rp 324,1 Juta                (OTR)",CVT,5 Kursi,1498 cc,119 hp
+44,Daihatsu Terios X A/T,"Rp 246,45 Juta                (OTR)",Otomatis,7 Kursi,1496 cc,103 hp
+45,Daihatsu Terios X ADS MT,Rp 248 Juta                (OTR),Manual,7 Kursi,1496 cc,103 hp
+46,Daihatsu Terios X ADS AT,"Rp 258,4 Juta                (OTR)",Otomatis,7 Kursi,1496 cc,103 hp
+47,Daihatsu Terios R M/T,"Rp 269,95 Juta                (OTR)",Manual,7 Kursi,1496 cc,103 hp
+48,Daihatsu Terios R ADS MT,"Rp 279,95 Juta                (OTR)",Manual,7 Kursi,1496 cc,103 hp
+49,Daihatsu Terios R A/T,"Rp 280,45 Juta                (OTR)",Otomatis,7 Kursi,1496 cc,103 hp
+50,Daihatsu Terios R ADS AT,"Rp 290,45 Juta                (OTR)",Otomatis,7 Kursi,1496 cc,103 hp
+51,Daihatsu Terios R MT Custom,"Rp 292,75 Juta                (OTR)",Manual,7 Kursi,1496 cc,103 hp
+52,Daihatsu Terios R AT Custom,"Rp 203,25 Juta                (OTR)",Otomatis,7 Kursi,1496 cc,103 hp
+53,Hyundai Creta Trend MT,"Rp 319,3 Juta                (OTR)",Manual,5 Kursi,1497 cc,113 hp
+54,Hyundai Creta Trend IVT,"Rp 340,5 Juta                (OTR)",CVT,5 Kursi,1497 cc,113 hp
+55,Hyundai Creta Style IVT,"Rp 383,8 Juta                (OTR)",CVT,5 Kursi,1497 cc,113 hp
+56,Hyundai Creta Prime IVT,"Rp 416,8 Juta                (OTR)",CVT,5 Kursi,1497 cc,113 hp
+57,Hyundai Creta Alpha IVT,"Rp 421,8 Juta                (OTR)",CVT,5 Kursi,1497 cc,113 hp
+58,Chery Tiggo 5x Champion,Rp 299 Juta                (OTR),CVT,5 Kursi,1498 cc,111 hp
